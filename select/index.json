@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lone Star Blues",
+  "base_artist": "George Strait",
+  "createdAt": "2026-03-23T16:00:55.868125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lone Star Blues",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/01_Lone_Star_Blues_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lone Star Blues",
+      "artist": "Delbert McClinton",
+      "has_synced": false,
+      "path": "select/02_Lone_Star_Blues_Delbert_McClinton.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lone Star Blues (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/03_Lone_Star_Blues_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lone Star Blues",
+      "artist": "Strait, George",
+      "has_synced": false,
+      "path": "select/04_Lone_Star_Blues_Strait,_George.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lone Star Blues",
+      "artist": "Strait, George [US]",
+      "has_synced": false,
+      "path": "select/05_Lone_Star_Blues_Strait,_George_[US].txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lone Star Girl",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/06_Lone_Star_Girl_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lone Star",
+      "artist": "Sun Kil Moon",
+      "has_synced": true,
+      "path": "select/07_Lone_Star_Sun_Kil_Moon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lone Star Song",
+      "artist": "Grant Lee Buffalo",
+      "has_synced": true,
+      "path": "select/08_Lone_Star_Song_Grant_Lee_Buffalo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lone Star Girl (Album Version)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/09_Lone_Star_Girl_(Album_Version)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Lone Star Trail",
+      "artist": "Ken Maynard",
+      "has_synced": false,
+      "path": "select/10_The_Lone_Star_Trail_Ken_Maynard.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lone Star State Of Mind",
+      "artist": "Nanci Griffith",
+      "has_synced": true,
+      "path": "select/11_Lone_Star_State_Of_Mind_Nanci_Griffith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lone Star Queen",
+      "artist": "New York Dolls",
+      "has_synced": true,
+      "path": "select/12_Lone_Star_Queen_New_York_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lone Star Rag",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": false,
+      "path": "select/13_Lone_Star_Rag_Bob_Wills_&_His_Texas_Playboys.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby Lone Star",
+      "artist": "Gabriel Rios",
+      "has_synced": false,
+      "path": "select/14_Baby_Lone_Star_Gabriel_Rios.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lone Star",
+      "artist": "The Front Bottoms",
+      "has_synced": true,
+      "path": "select/15_Lone_Star_The_Front_Bottoms.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lone Star",
+      "artist": "Tony Marcus",
+      "has_synced": false,
+      "path": "select/16_Lone_Star_Tony_Marcus.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lone Star",
+      "artist": "Dustin Lynch",
+      "has_synced": false,
+      "path": "select/17_Lone_Star_Dustin_Lynch.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lone Star",
+      "artist": "Ten Tonnes",
+      "has_synced": true,
+      "path": "select/18_Lone_Star_Ten_Tonnes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonesome Rodeo Cowboy",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/pl_01_Lonesome_Rodeo_Cowboy_George_Strait.txt"
+    }
+  ]
+}
